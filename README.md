@@ -89,7 +89,7 @@ A modern, real-time attendance system using face recognition built with Python, 
 
 **Anuj Thakur**  
 🎓 B.Tech in Computer Science and Engineering  
-🔗 [LinkedIn](#) | [GitHub](#)
+🔗 [LinkedIn](https://www.linkedin.com/in/anuj-thakur-28163128b) | [GitHub](https://github.com/Anujthakur6527)
 
 ---
 
