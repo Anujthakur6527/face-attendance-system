@@ -1,0 +1,6 @@
+opencv-python
+numpy
+pandas
+customtkinter
+pyttsx3
+Pillow
